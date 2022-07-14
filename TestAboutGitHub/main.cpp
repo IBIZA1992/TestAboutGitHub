@@ -20,6 +20,8 @@ int main(int argc, const char * argv[]) {
     i = 5;
     i = 6;
     
+    int a = 34;
+    
     printf("this is in dev");
     printf("this is in dev 2");
     return 0;
