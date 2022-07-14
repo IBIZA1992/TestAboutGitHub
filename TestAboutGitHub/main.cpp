@@ -17,5 +17,7 @@ int main(int argc, const char * argv[]) {
     i = 3;
     
     i = 4;
+    i = 5;
+    i = 6;
     return 0;
 }
