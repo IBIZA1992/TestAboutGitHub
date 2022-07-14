@@ -21,6 +21,7 @@ int main(int argc, const char * argv[]) {
     i = 6;
     
     __unused int a = 1;
+    __unused int a = 1000000;
 
     printf("this is in dev");
     printf("this is in dev 2");
