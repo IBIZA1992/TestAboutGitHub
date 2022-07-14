@@ -22,5 +22,7 @@ int main(int argc, const char * argv[]) {
     
     printf("this is in dev");
     printf("this is in dev 2");
+    
+    int a=1244141;
     return 0;
 }
