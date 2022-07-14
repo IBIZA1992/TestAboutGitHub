@@ -20,11 +20,10 @@ int main(int argc, const char * argv[]) {
     i = 5;
     i = 6;
     
-    int a = 34;
+    __unused int a = 1000;
 
     printf("this is in dev");
     printf("this is in dev 2");
     
-    int a=1244141;
     return 0;
 }
